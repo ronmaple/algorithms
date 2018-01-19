@@ -1,6 +1,3 @@
-// FCC - intermediate algorithm challenge 1
-// sum all numbers in a range
-// will add a test later
 function sumAll(arr) {
   var a,b,sum = 0;
 
